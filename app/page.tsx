@@ -1,5 +1,4 @@
 import Link from "next/link"
-import { ArrowRight, CheckCircle, LineChart, Smartphone, Zap } from "lucide-react"
 
 export default function LandingPage() {
   return (
