@@ -34,13 +34,13 @@ export default function LandingPage() {
             <div className="space-y-4">
               <h3 className="text-xl font-semibold">Acheive Small Wins</h3>
               <p className="text-muted-foreground">
-              Easily track and celebrate the small habits that add up to big change. Whether it's making your bed, doing a single stretch, or simply filling your water bottle in the morning—our intuitive interface helps you reinforce progress without the pressure of overwhelming goals. Build momentum, stay consistent, and feel accomplished every day.
+              Easily track and celebrate the small habits that add up to big change. Whether it&apos;s making your bed, doing a single stretch, or simply filling your water bottle in the morning—our intuitive interface helps you reinforce progress without the pressure of overwhelming goals. Build momentum, stay consistent, and feel accomplished every day.
               </p>
             </div>
             <div className="space-y-4">
               <h3 className="text-xl font-semibold">Daily Habit Journal for Awareness</h3>
               <p className="text-muted-foreground">
-              Keep track of your daily habits with a built-in journaling feature that helps you stay mindful of your routines. Reflect on your habits at the end of each day, recognize patterns, and gain insights into what’s working. By reviewing your daily habits in one place, you can stay intentional and make meaningful progress over time.
+              Keep track of your daily habits with a built-in journaling feature that helps you stay mindful of your routines. Reflect on your habits at the end of each day, recognize patterns, and gain insights into what&apos;s working. By reviewing your daily habits in one place, you can stay intentional and make meaningful progress over time.
               </p>
             </div>
             <div className="space-y-4">
