@@ -62,10 +62,10 @@ export default function SmallWinsBuildHabitsPage() {
               
               <div className="rounded-lg border p-6 bg-card">
                 <h4 className="text-lg font-semibold mb-2">
-                  3. Maintaining Good Posture → Doing Neck Bridges in the Morning
+                  3. Maintaining Good Posture → Doing Neck Situps in the Morning
                 </h4>
                 <p className="leading-7 text-muted-foreground">
-                  Good posture isn&apos;t just about standing tall—it&apos;s about strengthening your muscles to support better alignment. A great way to start is by doing neck bridges in the morning. This small exercise strengthens your neck and back, creating a foundation for improved posture throughout the day.
+                  Good posture isn&apos;t just about standing tall—it&apos;s about strengthening your muscles to support better alignment. A great way to start is by doing neck sit ups in the morning. This small exercise strengthens your neck and back, creating a foundation for improved posture throughout the day.
                 </p>
               </div>
             </div>
