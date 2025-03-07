@@ -55,7 +55,7 @@ export default function SmallWinsBuildHabitsPage() {
             </p>
 
             <p className="leading-7 mb-4 font-medium text-gray-800 bg-gray-100 p-3 rounded-md border-l-4 border-black">
-              <span className="font-bold">The 2-Minute Rule:</span> The most effective small wins are habits that take <span className="underline">2 minutes or less</span> to complete. This makes them so easy you can't say no, eliminating the barrier to getting started.
+              <span className="font-bold">The 2-Minute Rule:</span> The most effective small wins are habits that take <span className="underline">2 minutes or less</span> to complete. This makes them so easy you can&apos;t say no, eliminating the barrier to getting started.
             </p>
 
             <div className="mt-4 space-y-3">
